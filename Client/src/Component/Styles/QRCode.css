@@ -1,0 +1,49 @@
+
+.avatar {
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white ;
+  }
+
+.Center-QR{
+    background-color: #FA8BFF;
+    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+    color: white;
+}
+
+.Center-QR-Destop{
+    background-color: #FA8BFF;
+    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+    color: white;
+}
+
+.main-QR{
+    width: 75%;
+    height: 75%;
+    border-style: solid;
+    border-color: white ;
+}
+
+.Logos-Social{
+    margin-top: 5%;
+}
+
+.Logo-Social{
+    height: 27px;
+    margin-right: 5px;
+}
